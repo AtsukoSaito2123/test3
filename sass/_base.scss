@@ -679,11 +679,11 @@ header {
                     }
                 }
                 .pg-camp {
-                    position: relative;
-                    width: 227px;
+                   width: 227px;
                     color: #fff;
                     height: 64px;
-                    border: 3px solid #a2c249;
+                    border-top: 3px solid #a2c249;
+                    border-bottom: 3px solid #a2c249;
                     background: #a2c249;
                 }
             }
